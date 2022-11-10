@@ -13,6 +13,7 @@ main {
   width: 960px;
   margin: 50px auto;
   display: flex;
+  justify-content: center;
 }
 
 .box {
@@ -57,6 +58,7 @@ main {
   top: 0;
   left: 0;
   background-color: #ff9a4b;
+  color: #fff;
 }
 
 footer{
@@ -69,4 +71,19 @@ footer{
    width: 100%;
    display: block;
 }
-}
+  .box{
+    width: 90%;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-bottom: 20px 
+  }    
+  .img{
+    height: 150px;
+  }
+ .img2{
+    height: 150px;
+ }  
+  .img3{
+    height: 150px;
+ }
+ }
